@@ -1,0 +1,39 @@
+@font-face {
+    font-display: swap; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/montserrat-v29-latin-regular.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-display: swap; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/montserrat-v29-latin-500.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-display: swap; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/montserrat-v29-latin-600.woff2') format('woff2'); 
+  }
+  @font-face {
+    font-display: swap; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/montserrat-v29-latin-700.woff2') format('woff2'); 
+  }
+
+
+.register-body{
+    background: linear-gradient(71.17deg, #FEAF00 19.35%, #F8D442 90.12%);
+    font-family:"Montserrat",sans-serif ;
+}
+
+.login-body{
+    background: linear-gradient(71.17deg, #FEAF00 19.35%, #F8D442 90.12%);
+    font-family:"Montserrat",sans-serif ;
+}

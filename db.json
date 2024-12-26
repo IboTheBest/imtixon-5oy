@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "70eb",
+      "newUserName": "Ibrohim",
+      "newUserPassword": "123"
+    },
+    {
+      "id": "08b3",
+      "newUserName": "Ibrohimjon",
+      "newUserPassword": "123"
+    },
+    {
+      "id": "8f4d",
+      "newUserName": "Azizbek",
+      "newUserPassword": "123"
+    }
+  ],
+  "items": [
+    {
+      "img": "blob:http://127.0.0.1:5500/0ed61bad-9050-4c23-850f-ec3efde673b7",
+      "name": "Ibrohimjon",
+      "email": "cybergenyus@gmail.com",
+      "number": "1234121",
+      "serial": "2312",
+      "date": "2024-11-28",
+      "id": "5167"
+    }
+  ]
+}
